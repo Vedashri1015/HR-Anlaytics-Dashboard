@@ -39,3 +39,14 @@
         <li>Treemaps for Gender Distribution</li>
         <li>Slicers for Department Filtering</li>
     </ul>
+    <h2>Project Gains</h2>
+    <p>
+        The project has led to several key benefits:
+    </p>
+    <ul>
+        <li>Identified key factors to reduce attrition.</li>
+        <li>Improved the hiring process.</li>
+        <li>Enhanced employee experience.</li>
+        <li>Increased workforce productivity.</li>
+        <li>Gained employee trust.</li>
+    </ul>
