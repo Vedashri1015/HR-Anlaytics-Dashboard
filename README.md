@@ -17,3 +17,37 @@
         <li>Average Salary</li>
         <li>Average Years in Company</li>
     </ul>
+    <h2>Data Analysis and Processing</h2>
+    <p>
+        Data was initially imported from CSV format and processed using Power BI. Key steps included:
+    </p>
+    <ol>
+        <li>Transforming and cleaning data to remove duplicates and null values.</li>
+        <li>Checking data types for consistency.</li>
+        <li>Creating pivot tables in Excel to understand data better before importing to Power BI.</li>
+    </ol>
+
+    <h2>Power BI Report Creation</h2>
+    <p>
+        The report includes various visualizations such as:
+    </p>
+    <ul>
+        <li>Cards for KPIs (Attrition Rate, Average Age, Average Salary, Average Tenure)</li>
+        <li>Donut Charts for Education Field vs. Attrition</li>
+        <li>Stacked Column Charts for Age Group vs. Attrition</li>
+        <li>Matrix Tables for Job Role, Job Satisfaction, and Attrition</li>
+        <li>Treemaps for Gender Distribution</li>
+        <li>Slicers for Department Filtering</li>
+    </ul>
+
+    <h2>Project Gains</h2>
+    <p>
+        The project has led to several key benefits:
+    </p>
+    <ul>
+        <li>Identified key factors to reduce attrition.</li>
+        <li>Improved the hiring process.</li>
+        <li>Enhanced employee experience.</li>
+        <li>Increased workforce productivity.</li>
+        <li>Gained employee trust.</li>
+    </ul>
