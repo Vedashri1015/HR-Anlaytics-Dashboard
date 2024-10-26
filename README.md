@@ -50,3 +50,7 @@
         <li>Increased workforce productivity.</li>
         <li>Gained employee trust.</li>
     </ul>
+    <h2>Conclusion</h2>
+    <p>
+        The HR Analytics Dashboard serves as a critical tool for the organization to analyze employee data effectively, allowing for data-driven decisions aimed at reducing attrition and fostering a positive work environment.
+    </p>
