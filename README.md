@@ -27,7 +27,7 @@
         <li>Creating pivot tables in Excel to understand data better before importing to Power BI.</li>
     </ol>
 
-    <h2>Power BI Report Creation</h2>
+ <h2>Power BI Report Creation</h2>
     <p>
         The report includes various visualizations such as:
     </p>
@@ -38,16 +38,4 @@
         <li>Matrix Tables for Job Role, Job Satisfaction, and Attrition</li>
         <li>Treemaps for Gender Distribution</li>
         <li>Slicers for Department Filtering</li>
-    </ul>
-
-    <h2>Project Gains</h2>
-    <p>
-        The project has led to several key benefits:
-    </p>
-    <ul>
-        <li>Identified key factors to reduce attrition.</li>
-        <li>Improved the hiring process.</li>
-        <li>Enhanced employee experience.</li>
-        <li>Increased workforce productivity.</li>
-        <li>Gained employee trust.</li>
     </ul>
