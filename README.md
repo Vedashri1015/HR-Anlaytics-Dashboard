@@ -1,97 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HR Analytics Dashboard - Project Overview</title>
+<title>HR Analytics Project Overview</title>
 </head>
 <body>
-    <h1>HR Analytics Dashboard</h1>
+    <h1>HR Analytics Project</h1>
     <h2>Objective</h2>
     <p>
-        The objective of this project is to help an organization improve employee performance and retention by reducing attrition. The project aims to identify key factors affecting employee attrition through an interactive HR Analytics Dashboard built using Power BI.
+        The primary objective of this project is to assist an organization in improving employee performance and enhancing employee retention by reducing attrition rates. This is achieved through the creation of an insightful HR Analytics Dashboard using Power BI.
     </p>
-
-    <h2>Project Scope</h2>
+    
+    <h2>Dashboard Setup</h2>
     <p>
-        The focus of the dashboard is on identifying and analyzing the key factors affecting employee attrition. By visualizing data, we aim to provide actionable insights to enhance employee retention strategies, improve hiring processes, and elevate overall employee experience.
+        The dashboard is designed to provide insights on key factors affecting employee attrition. Key Performance Indicators (KPIs) supporting the narrative include:
     </p>
-
-    <h2>Data Setup and Analysis</h2>
     <ul>
-        <li>
-            <strong>Data Import:</strong> The data was loaded in Power BI from a CSV file.
-        </li>
-        <li>
-            <strong>Data Cleaning:</strong> Duplicates, null values, and spelling mistakes were handled during the data cleaning process. The dataset was checked for errors and duplicates using Power BI’s data transformation tools.
-        </li>
-        <li>
-            <strong>Data Processing:</strong> Columns irrelevant to the analysis were removed, and data types were correctly set using Power BI’s data transformation tools.
-        </li>
+        <li>Employee ID</li>
+        <li>Attrition Status</li>
+        <li>Average Age</li>
+        <li>Average Salary</li>
+        <li>Average Years in Company</li>
     </ul>
 
-    <h2>KPI Creation and Report Setup</h2>
+    <h2>Data Analysis and Processing</h2>
+    <p>
+        Data was initially imported from CSV format and processed using Power BI. Key steps included:
+    </p>
+    <ol>
+        <li>Transforming and cleaning data to remove duplicates and null values.</li>
+        <li>Checking data types for consistency.</li>
+        <li>Creating pivot tables in Excel to understand data better before importing to Power BI.</li>
+    </ol>
+
+    <h2>Power BI Report Creation</h2>
+    <p>
+        The report includes various visualizations such as:
+    </p>
     <ul>
-        <li>
-            <strong>KPIs Created:</strong> Attrition Rate, Average Age, Average Salary, Average Years at Company.
-        </li>
-        <li>
-            Attrition rate was calculated using a custom measure: <code>(Total Attrition / Total Employees)</code> and formatted as a percentage.
-        </li>
-        <li>
-            Cards were used to display key metrics such as attrition rate, average age, average salary, and average working years.
-        </li>
-        <li>
-            A Donut Chart was used to visualize attrition across different education fields.
-        </li>
-        <li>
-            Stacked Bar Charts, Line Charts, Matrix Tables, and Treemaps were used to visualize data such as salary ranges, job roles, years at company, and gender-wise attrition.
-        </li>
-        <li>
-            Filters and slicers were applied for interactive analysis based on job roles, departments, and more.
-        </li>
+        <li>Cards for KPIs (Attrition Rate, Average Age, Average Salary, Average Tenure)</li>
+        <li>Donut Charts for Education Field vs. Attrition</li>
+        <li>Stacked Column Charts for Age Group vs. Attrition</li>
+        <li>Matrix Tables for Job Role, Job Satisfaction, and Attrition</li>
+        <li>Treemaps for Gender Distribution</li>
+        <li>Slicers for Department Filtering</li>
     </ul>
 
-    <h2>Key Insights</h2>
+    <h2>Project Gains</h2>
+    <p>
+        The project has led to several key benefits:
+    </p>
     <ul>
-        <li>Identified the top factors contributing to attrition.</li>
-        <li>Highlighted the job roles with the highest attrition rates.</li>
-        <li>Revealed trends in employee attrition across various age groups and salary ranges.</li>
-        <li>Displayed the impact of job satisfaction on employee turnover.</li>
-    </ul>
-
-    <h2>Benefits</h2>
-    <ul>
-        <li>Enhanced employee retention by identifying key drivers of attrition.</li>
-        <li>Improved hiring processes by understanding factors that affect employee longevity.</li>
-        <li>Gained insights to enhance the employee experience and productivity.</li>
-        <li>Developed a data-driven approach to workforce management, boosting employee trust and engagement.</li>
+        <li>Identified key factors to reduce attrition.</li>
+        <li>Improved the hiring process.</li>
+        <li>Enhanced employee experience.</li>
+        <li>Increased workforce productivity.</li>
+        <li>Gained employee trust.</li>
     </ul>
 
     <h2>Conclusion</h2>
     <p>
-        The HR Analytics Dashboard successfully provides actionable insights that can help organizations reduce attrition, improve hiring strategies, and create a better work environment. By leveraging the power of Power BI, the dashboard enables data-driven decision-making in HR management.
-    </p>
-
-    <h2>How to Run This Project</h2>
-    <ol>
-        <li>Download or clone the repository from GitHub.</li>
-        <li>Open the Power BI file and load the CSV dataset.</li>
-        <li>Navigate through the dashboard visuals to explore insights.</li>
-        <li>Use filters and slicers to customize the view according to your analysis needs.</li>
-    </ol>
-
-    <h2>Project Files</h2>
-    <ul>
-        <li>Power BI File (.pbix)</li>
-        <li>CSV Dataset</li>
-        <li>README File (this file)</li>
-    </ul>
-
-    <h2>Future Improvements</h2>
-    <p>
-        Future improvements could include integrating real-time data, enhancing visualizations with more advanced Power BI features, and incorporating predictive analytics to forecast attrition trends.
+        The HR Analytics Dashboard serves as a critical tool for the organization to analyze employee data effectively, allowing for data-driven decisions aimed at reducing attrition and fostering a positive work environment.
     </p>
 
 </body>
-</html>
